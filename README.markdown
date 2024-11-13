@@ -1,5 +1,6 @@
-What is Git ?
-=============
+<img width="330" alt="CSES OpenSource Logo" src="https://github.com/user-attachments/assets/d24f488b-a4fb-4de4-a560-4a494fab5210">
+
+# Intro to Git
 
 Git is a *distributed* **version control** system [1]
 
@@ -496,4 +497,4 @@ This work is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 License\
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</a>\
 Author: Thong Kuah\
-Contributors: Andy Newport, Nick Malcolm
+Contributors: Andy Newport, Nick Malcolm, Aryen Singhal, Kevin Sun
