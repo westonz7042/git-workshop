@@ -392,6 +392,30 @@ Stuck? Ask for help from the workshop staff
 
 Congratulations. You have fixed the conflict. All is good in the world.
 
+
+Part II
+=======
+
+GitHub can also be very powerful for collaborative coding especially for Open Source projects!
+
+Let's give it a try!
+
+1. Open up either `some_python_code.py` or `SomeJavaCode.java` depending on which language you prefer.
+2. Find the bug in the code and fix it!
+3. Add and commit the changes.
+4. Push the changes to your forked repo.
+5. Open GitHub.com and click `contribute` to open a pull request. A pull request is basically a proposal to merge two branches. Earlier we covered merging two local branches, but in this case we are merging a branch from a forked repo to the upstream main repo.
+6. Add a title and some description to the Pull Request and make the request!
+
+![image](https://github.com/user-attachments/assets/a9d4ef47-9acd-4418-8bd1-e23b1a5728e7)
+
+Part III
+=======
+
+Check out the `revert` branch on this repository for further instructions!
+You can always get back to this version of the readme by checking out the master
+branch.
+
 Fin
 ---
 
@@ -404,80 +428,9 @@ You have learnt :
 5.  Undoing changes
 6.  Branching and merging
 7.  Fixing conflicts
-
-
-Now You can choose two tracks, either Part II (below) which covers time travel and
-mangling your git history, or Part III (even below-er) which covers Github pull
-requests and cat gifs.
-
-Part II
-=======
-
-Check out the `revert` branch on this repository for further instructions!
-You can always get back to this version of the readme by checking out the master
-branch.
-
-Part III
-========
-
-GitHub
-------
-But, wait. There’s more. What about this distributed sharing thing with
-Git ?
-
-To be able to share, we’ll need a server to host our git repositiories.
-GitHub (<a href="https://github.com/">github.com</a>) is probably the
-easiest place to begin with.
-
-Login or sign up with GitHub
-----------------------------
-
-If you've already got an account you can skip on to creating the repo on
-github, or forking this repository and cloning it down to your local machine.
-
-Otherwise...
-
-Go <a href="https://github.com/signup">sign up for an account</a> at
-GitHub; Or login into your GitHub account if you had previously signed
-up.
-
-Hint: You may need to setup git cache your GitHub password - see
-<a href="https://help.github.com/articles/set-up-git">https://help.github.com/articles/set-up-git</a>
-
-Then come back here, we’ll wait.
-
-Create your first GitHub repository
------------------------------------
-
-A repository (repo) is a place where you would store your code. You were
-practising on your very own repo just now in Part 1!
-
-The following <a href="https://help.github.com/articles/create-a-repo">
-tutorial</a> will show you how to create a GitHub repo - which you can
-then share with others
-
-Then come back here, we’ll wait.
-
-Fork a repo
------------
-
-Go to [this tutorial](https://help.github.com/articles/fork-a-repo)
-Then come back here, we’ll wait.
-
-Let’s collaborate !
--------------------
-
-Check out the `pull_request` branch on this repository for further instructions!
-You can always get back to this version of the readme by checking out the master branch.
-
-Fin
----
-
-You have learnt:
-
-1.  Forking a repo at GitHub
-2.  Git push
-3.  Git pull
+8.  Forking a repo at GitHub
+9.  Git push
+10.  Git pull
 
 ### References and Further reading
 
@@ -489,6 +442,8 @@ I throughly recommend these resources to continue your Git practice:
     website, with very useful help, book and videos
 -   <a href="http://gitref.org">http://gitref.org</a>
 -   <a href="http://www.kernel.org/pub/software/scm/git/docs/everyday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
+
+
 
 Author
 ------
