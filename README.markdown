@@ -31,13 +31,12 @@ As a helpful step, you may want to set Git to use your favourite editor
 Starting your journey
 ---------------------
 
-First, clone this repository:
-
-    $ git clone https://github.com/kuahyeow/git-workshop.git
-
-You may want to fork (create your own copy of) the project on github and
-clone from your own repo. You can find the fork button at the top right of
+First, fork (create your own copy of) the project on github. You can find the fork button at the top right of
 the screen on a github repository, or more help about doing that [here](https://help.github.com/articles/fork-a-repo/).
+
+Then, clone your forked repository:
+
+    $ git clone https://github.com/<your-github-username>/git-workshop.git
 
 Once you have cloned your repository, you should now see a directory
 called `git-workshop`. This is your `working directory`
